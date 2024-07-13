@@ -8,4 +8,10 @@
 - numpy
 - matplotlib
 - seaborn
-- sclearn
+- sklearn.preprocessing **StandardScaler**
+- sklearn.linear_model **LinearRegression**
+- sklearn.ensemble **RandomForestRegressor**
+- sklearn.model_selection **cross_val_score**
+- sklearn.metrics import 
+- sklearn.model_selection **train_test_split**, **RandomizedSearchCV**
+- catboost **CatBoostRegressor**
